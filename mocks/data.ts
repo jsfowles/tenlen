@@ -15,7 +15,7 @@ export const DATA = [
       paymentMethod: "x8945",
     },
     termsAndConditionsMarkdown: `Payments made after 5pm Central will be posted the following day.  
- By sliding to make a payment, I agree to the [Terms + Conditions](www.nelnet.com)`,
+ By sliding to make a payment, I agree to the [Terms + Conditions](www.tenlen.com)`,
     buttonLabel: "Review",
   },
 ];
